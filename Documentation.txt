@@ -1,0 +1,12 @@
+AquaVision AI
+Underwater Vision Enhancement System
+Project Overview
+
+AquaVision AI is a Deep Learning-based Underwater Image Enhancement System designed to improve the visual quality of
+underwater images affected by color distortion, haze, low contrast, and poor visibility. 
+The project aims to develop an AI-powered solution capable of restoring underwater images to a clearer and more natural
+appearance.
+
+The system will utilize Deep Learning techniques, specifically a U-Net architecture combined with Perceptual Loss, 
+to perform image-to-image enhancement. The final deliverable will include a trained enhancement model, 
+evaluation metrics, and a user-friendly web interface for image enhancement.
